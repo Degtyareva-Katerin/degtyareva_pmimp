@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1_HelloWorld</string>
+    <string name="btn_name">Отобразить</string>
+    <string name="txtEdit_name"></string>
+    <string name="txtView_name"></string>
+    <string name="txtViewHint_name">Введите текст</string>
+</resources>

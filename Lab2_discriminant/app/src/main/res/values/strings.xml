@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2_discriminant</string>
+    <string name="btn_name">Вычислить</string>
+    <string name="a_name"></string>
+    <string name="b_name"></string>
+    <string name="c_name"></string>
+    <string name="a_name_hint">a</string>
+    <string name="b_name_hint">b</string>
+    <string name="c_name_hint">c</string>
+    <string name="result_name">Введите значения коэффициентов</string>
+    <string name="res2_name"></string>
+</resources>
